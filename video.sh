@@ -9,4 +9,5 @@ flatpak install app/com.obsproject.Studio/x86_64/stable \
 		app/org.kde.kdenlive/x86_64/stable \
 		app/org.gimp.GIMP/x86_64/stable \
 		app/org.kde.krita/x86_64/stable \
-		app/org.inkscape.Inkscape/x86_64/stable
+		app/org.inkscape.Inkscape/x86_64/stable \
+		app/org.audacityteam.Audacity/x86_64/stable
