@@ -9,4 +9,4 @@ flatpak install app/org.duckstation.DuckStation/x86_64/stable \
 		app/app.xemu.xemu/x86_64/stable \
 		app/net.kuribo64.melonDS/x86_64/stable \
 		app/org.flycast.Flycast/x86_64/stable  \
-
+		app/io.github.ryubing.Ryujinx/x86_64/stable

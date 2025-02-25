@@ -23,4 +23,6 @@ flatpak install app/com.chatterino.chatterino/x86_64/stable \
 		app/io.gitlab.news_flash.NewsFlash/x86_64/stable \
 		app/org.mozilla.firefox/x86_64/stable \
 		app/io.missioncenter.MissionCenter/x86_64/stable \
-		app/org.qownnotes.QOwnNotes/x86_64/stable
+		app/org.qownnotes.QOwnNotes/x86_64/stable \
+		app/dev.zelikos.rollit/x86_64/stable \
+		app/dev.bragefuglseth.Keypunch/x86_64/stable
