@@ -25,4 +25,6 @@ flatpak install app/com.chatterino.chatterino/x86_64/stable \
 		app/io.missioncenter.MissionCenter/x86_64/stable \
 		app/org.qownnotes.QOwnNotes/x86_64/stable \
 		app/dev.zelikos.rollit/x86_64/stable \
-		app/dev.bragefuglseth.Keypunch/x86_64/stable
+		app/dev.bragefuglseth.Keypunch/x86_64/stable \
+		app/io.ente.auth/x86_64/stable \
+		app/com.bitwarden.desktop/x86_64/stable
