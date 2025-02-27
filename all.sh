@@ -10,3 +10,4 @@
 ./steavengameryt.sh
 ./video.sh
 ./window-manager-utils.sh
+./sober.sh
